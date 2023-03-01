@@ -1,3 +1,4 @@
 I want to stage and commit this file,
 using this file for running merge conflict
 
+I want to use this text file to test out merging conflict
