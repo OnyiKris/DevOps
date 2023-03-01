@@ -1,8 +1,14 @@
+master
 I want to stage and commit this file,
 using this file for running merge conflict
+mergetxt 
+I want to stage and commit this file: i am not satisfied, slow with my personal study
+
 
 I want to use this text file to test out merging conflict
 
 
 
-my merge conflict is not turning out as expected oh
+my merge conflict is not turning out as expected oh.
+
+my merging conflict txt run worked.
