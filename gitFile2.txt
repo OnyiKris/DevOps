@@ -12,3 +12,6 @@ I want to use this text file to test out merging conflict
 my merge conflict is not turning out as expected oh.
 
 my merging conflict txt run worked.
+
+
+Continuing practise to GITHUB
