@@ -1,3 +1,13 @@
-we are on our first git class and oh my! it is quite interesting
+#!/bin/bash
+<<clone
+
+This is a cloned txt.
+
+clone
+
+
+
+We are on our first git class and oh my! it is quite interesting
+We are all happy to be here.
 
 #continuing with my study on GIT
